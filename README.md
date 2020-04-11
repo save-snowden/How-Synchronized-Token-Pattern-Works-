@@ -8,7 +8,9 @@ to start the file extraction. When the Command Prompt screen appears, press the
 "Enter" key at every question to accept default settings
 
 
-Start the XAMPP program. When started, XAMPP loads itself into your icon tray.
+Start the XAMPP program.
+When started, XAMPP loads itself into your icon tray.
+
 The icon is orange with a white bone-like shape in its center. Single-click the icon to expand the Control Panel.
 Click on the "Start" button next to "Apache" to start your Apache Web server.
 When Apache is running, the word "Running" will appear next to it, highlighted in green.
